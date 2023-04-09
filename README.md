@@ -1,5 +1,5 @@
 
-<i>Adaptive Data Optimizer aims at increasing the temporal resolution of a sensor by incorporating additional hardware components to the camera architecture and employing powerful computational techniques for high speed video reconstruction. The additional components operate at higher frame rates than the camera’s native temporal resolution giving rise to low frame rate multiplexed measurements <b>(middle frames)</b> which can later be decoded to extract the unknown observed high speed video sequence <b>(right frames)</b>. It can be used for high-resolution image and image-based documents.</i>
+<i>Adaptive Data Optimizer aims to reducing video filesystem size by increasing the temporal resolution of a sensor by incorporating additional hardware components to the camera architecture and employing powerful computational techniques for high speed video reconstruction. The additional components operate at higher frame rates than the camera’s native temporal resolution giving rise to low frame rate multiplexed measurements <b>(middle frames)</b> which can later be decoded to extract the unknown observed high speed video sequence <b>(right frames)</b>. It can be used for high-resolution image and image-based documents.</i>
 
 
 
