@@ -23,13 +23,6 @@ Install all requirements below (with pip or conda)
 - pandas (https://pandas.pydata.org/)
 - bokeh (https://bokeh.pydata.org/en/latest/)
 
-
-### Clone this repo
-```bash
-git clone https://github.com/miliadis/DeepVideoCS
-cd DeepVideoCS
-```
-
 ## Testing
 
 ### Testing script
